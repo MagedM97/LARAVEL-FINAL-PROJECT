@@ -3,7 +3,10 @@
 
 # E-COMMERCE
 
-An MVC CRUD E-commerce website with simple admin dashboard using Laravel, PHP and Blade.
+     -Built a simple CRUD website with admin panel 
+     -Developed simple front-end to allow user:
+       add product to his cart, rate & review product (sending review to DB)
+-Implemented user authentication using Laravel Breeze Kit
 
 
 ### Installation
